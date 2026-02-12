@@ -1,0 +1,1 @@
+export const name = "Dragos",id = 1234567890, dateOfBirth = "01.01.2000", email = "zemdragos@gmail.com";

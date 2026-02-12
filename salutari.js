@@ -1,0 +1,1 @@
+export function salutare(name){ return "hello my brother " + name }    
